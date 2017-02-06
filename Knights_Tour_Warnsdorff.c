@@ -13,7 +13,7 @@
     ALGORITHM TO IMPLEMENT WARNSDORFF RULE:
     •   Some definitions:
         • A position Q is accessible from a position P if P can move to Q by a 
-          single lcnight's move, and Q has not yet been visited.
+          single Knight's move, and Q has not yet been visited.
         • The accessibility of a position P is the number of positions accessible 
           from P.
     •   Algorithm:
