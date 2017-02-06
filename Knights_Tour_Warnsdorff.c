@@ -9,7 +9,7 @@
     Although the Hamiltonian path problem is NP-hard in general, this algorithm solves in linear time.
 */
 
-*/
+/*
     ALGORITHM TO IMPLEMENT WARNSDORFF RULE:
     •   Some definitions:
         • A position Q is accessible from a position P if P can move to Q by a 
